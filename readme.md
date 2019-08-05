@@ -581,5 +581,5 @@ let zip = '12345'
 let catchall = "mycatchalldomain.com"
 ```
 - In your terminal command prompt, run:
-- `npn install`
+- `npm install`
 - `npm start`
